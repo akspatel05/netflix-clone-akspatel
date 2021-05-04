@@ -71,4 +71,5 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
 
 ### LICENSE & COPYRIGHT
 ©️ Aks Patel
+
 Licensed under the [https://choosealicense.com/licenses/mit/]
