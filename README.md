@@ -7,6 +7,9 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 ![GitHub top language] (https://img.shields.io/languages/top/akspatel05/netflix-clone-akspatel?color=red&logo=GitHub)
 
 
+![GitHub stars](https://img.shields.io/github/stars/akspatel05/netflix-clone-akspatel?color=red&logo=GitHub) ![GitHub language count](https://img.shields.io/github/languages/count/akspatel05/netflix-clone-akspatel?logo=GitHub) ![GitHub top language](https://img.shields.io/github/languages/top/akspatel05/netflix-clone-akspatel?label=JavaScript&logo=javascript)
+
+
 ## Available Scripts
 
 In the project directory, you can run:
