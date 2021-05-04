@@ -1,6 +1,9 @@
-# Getting Started with Create React App
+##### This is a Netflix Clone in React, I am using TMDB API for loading data dynamically. I also used movie-trailer and Youtube for the smooth autoplay of trailers on clicking a spcific movie.
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+
+![GitHub stars](https://img.shields.io/github/stars/shubhamsharma199782/netflixclone?color=red&logo=GitHub) ![GitHub language count](https://img.shields.io/github/languages/count/shubhamsharma199782/netflixclone?logo=GitHub) ![GitHub top language](https://img.shields.io/github/languages/top/shubhamsharma199782/netflixclone?label=JavaScript&logo=javascript)
+
 
 ## Available Scripts
 
@@ -72,4 +75,4 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
 ### LICENSE & COPYRIGHT
 ©️ Aks Patel
 
-Licensed under the [https://choosealicense.com/licenses/mit/]
+Licensed under the [MIT License](LICENSE).
