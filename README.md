@@ -1,10 +1,10 @@
 ##### This is a Netflix Clone in React, I am using TMDB API for loading data dynamically. I also used movie-trailer and Youtube for the smooth autoplay of trailers on clicking a spcific movie.
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-(https://img.shields.io/github/stars/akspatel05/netflix-clone-akspatel?color=red&logo=GitHub)
-![GitHub stars] 
-![GitHub language count]
-![GitHub top language]
+
+![GitHub stars] (https://img.shields.io/github/stars/akspatel05/netflix-clone-akspatel?color=red&logo=GitHub)
+![GitHub language count] (https://img.shields.io/languages/count/akspatel05/netflix-clone-akspatel?logo=GitHub)
+![GitHub top language] (https://img.shields.io/languages/top/akspatel05/netflix-clone-akspatel?color=red&logo=GitHub)
 
 
 ## Available Scripts
