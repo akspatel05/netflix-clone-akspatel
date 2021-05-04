@@ -1,6 +1,7 @@
 ##### This is a Netflix Clone in React, I am using TMDB API for loading data dynamically. I also used movie-trailer and Youtube for the smooth autoplay of trailers on clicking a spcific movie.
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+![GitHub language count]
 
 ![GitHub stars] ![GitHub language count]
 ![GitHub top language]
