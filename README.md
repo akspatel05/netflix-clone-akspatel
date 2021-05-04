@@ -2,7 +2,8 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-![GitHub stars](https://img.shields.io/github/stars/shubhamsharma199782/netflixclone?color=red&logo=GitHub) ![GitHub language count](https://img.shields.io/github/languages/count/shubhamsharma199782/netflixclone?logo=GitHub) ![GitHub top language](https://img.shields.io/github/languages/top/shubhamsharma199782/netflixclone?label=JavaScript&logo=javascript)
+![GitHub stars] ![GitHub language count]
+![GitHub top language]
 
 
 ## Available Scripts
